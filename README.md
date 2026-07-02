@@ -18,6 +18,15 @@ in detail that's the real test anyway.
 |------|--------|------|
 | Pset 1 | ✅ Completed & graded | July 2026 |
 | Pset 2 | ⬜ | |
+| Pset 3 | ⬜ | |
+| Quiz 1 | ⬜ | |
+| Pset 4 | ⬜ | |
+| Pset 5 | ⬜ | |
+| Quiz 2 | ⬜ | |
+| Pset 6 | ⬜ | |
+| Pset 7 | ⬜ | |
+| Pset 8 | ⬜ | |
+| Quiz 3 | ⬜ | |
 
 ## Topics covered
 IS-LM and short-run fluctuations, labor markets and the medium run,
@@ -27,3 +36,6 @@ financial markets and crises.
 ## Why
 Building the economics foundation for a career in quantitative trading,
 alongside 18.06 (linear algebra), 6.041 (probability), and CS50P.
+
+## Source
+Course materials: [MIT OCW 14.02 Principles of Macroeconomics](https://ocw.mit.edu/courses/14-02-principles-of-macroeconomics-spring-2023/)
