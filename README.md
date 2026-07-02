@@ -7,11 +7,11 @@ available OCW course materials.
 
 ## About
 Full self-study of 14.02: all 25 lectures, 8 problem sets, and 3 quizzes,
-following the original course pacing and requirements.
+following the original course (Prof. Ricardo Caballero's Macroeconomics at MIT)
 
 Solutions are handwritten, then graded against MIT's published official
 solutions with AI assistance for grading(Fable 5). Happy to discuss any problem
-in detail — that's the real test anyway.
+in detail that's the real test anyway.
 
 ## Progress
 | Item | Status | Date |
