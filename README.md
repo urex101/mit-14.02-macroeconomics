@@ -1,4 +1,4 @@
-# MIT 14.02 — Principles of Macroeconomics (Self-Study)
+# MIT 14.02 - Principles of Macroeconomics (Self-Study)
 
 This is an independent self-study of MIT OpenCourseWare materials.
 I am not enrolled at MIT and this represents no degree, credit, or
