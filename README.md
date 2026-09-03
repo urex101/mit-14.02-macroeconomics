@@ -16,7 +16,7 @@ in detail that's the real test anyway.
 ## Progress
 | Item | Status | Date |
 |------|--------|------|
-| Pset 1 | ✅ Completed & graded | July 2026 |
+| Pset 1 | [✅ Completed & graded](PSETS/PSET1.pdf) | July 2026 |
 | Pset 2 | ✅ Completed & graded  | August 2026 |
 | Pset 3 | ✅ Completed & graded  | August 2026 |
 | Quiz 1 | ⬜ | |
