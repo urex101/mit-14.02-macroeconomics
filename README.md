@@ -19,7 +19,7 @@ in detail that's the real test anyway.
 | Pset 1 | [✅ Completed & graded](PSETS/PSET1.pdf) | July 2026 |
 | Pset 2 | [✅ Completed & graded](PSETS/PSET2) | August 2026 |
 | Pset 3 | [✅ Completed & graded](PSETS/PSET3) | August 2026 |
-| Quiz 1 | ⬜ | |
+| Quiz 1 | [✅ Completed & graded](QUIZES/QUIZ1) | September 2026 |
 | Pset 4 | ⬜ | |
 | Pset 5 | ⬜ | |
 | Quiz 2 | ⬜ | |
