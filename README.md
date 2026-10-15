@@ -14,19 +14,19 @@ solutions with AI assistance for grading(Fable 5). Happy to discuss any problem
 in detail that's the real test anyway.
 
 ## Progress
-| Item | Status | Date |
-|------|--------|------|
-| Pset 1 | [✅ Completed & graded](PSETS/PSET1.pdf) | July 2026 |
-| Pset 2 | [✅ Completed & graded](PSETS/PSET2) | August 2026 |
-| Pset 3 | [✅ Completed & graded](PSETS/PSET3) | August 2026 |
-| Quiz 1 | [✅ Completed & graded](QUIZES/QUIZ1) | September 2026 |
-| Pset 4 | [✅ Completed & graded](PSETS/PSET4) | October 2026 |
-| Pset 5 | ⬜ | |
-| Quiz 2 | ⬜ | |
-| Pset 6 | ⬜ | |
-| Pset 7 | ⬜ | |
-| Pset 8 | ⬜ | |
-| Quiz 3 | ⬜ | |
+| Item | Status | Date | Grade |
+|------|--------|------|-------|
+| Pset 1 | [✅ Completed & graded](PSETS/PSET1.pdf) | July 2026 | C- (72%) |
+| Pset 2 | [✅ Completed & graded](PSETS/PSET2) | August 2026 | B+ (89.5%) |
+| Pset 3 | [✅ Completed & graded](PSETS/PSET3) | August 2026 | C (76%) |
+| Quiz 1 | [✅ Completed & graded](QUIZES/QUIZ1) | September 2026 | C (75%) |
+| Pset 4 | [✅ Completed & graded](PSETS/PSET4) | October 2026 | D+ (68.5%) |
+| Pset 5 | ⬜ | | |
+| Quiz 2 | ⬜ | | |
+| Pset 6 | ⬜ | | |
+| Pset 7 | ⬜ | | |
+| Pset 8 | ⬜ | | |
+| Quiz 3 | ⬜ | | |
 
 ## Topics covered
 IS-LM and short-run fluctuations, labor markets and the medium run,
