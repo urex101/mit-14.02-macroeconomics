@@ -21,7 +21,7 @@ in detail that's the real test anyway.
 | Pset 3 | [✅ Completed & graded](PSETS/PSET3) | August 2026 | 76% |
 | Quiz 1 | [✅ Completed & graded](QUIZES/QUIZ1) | September 2026 | 75% |
 | Pset 4 | [✅ Completed & graded](PSETS/PSET4) | October 2026 | 68.5% |
-| Pset 5 | [✅ Completed & graded](PSETS/PSET5) | October 2026 | 94% |
+| Pset 5 | [✅ Completed & graded](PSETS/PSET5) | November 2026 | 94% |
 | Quiz 2 | ⬜ | | |
 | Pset 6 | ⬜ | | |
 | Pset 7 | ⬜ | | |
